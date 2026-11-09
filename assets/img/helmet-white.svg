@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-labelledby="ht hd">
+<title id="ht">轻便透气安全帽线稿示意图</title>
+<desc id="hd">安全帽分类线稿示意插画，非实物照片，实际外观以产品实物为准</desc>
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M36 142 C36 70 90 26 160 26 C230 26 284 70 284 142 L284 150 L36 150 Z" fill="#F8F7F3" stroke="#17191C" stroke-width="2.4"/>
+<path d="M160 26 L160 150 M112 32 C100 70 96 110 96 150 M208 32 C220 70 224 110 224 150" stroke="#17191C" stroke-width="1.2" opacity=".26"/>
+<path d="M126 30 Q160 23 194 30" stroke="#FF5A1F" stroke-width="5"/>
+<path d="M22 148 Q160 136 298 148 Q308 150 300 162 Q160 178 20 162 Q12 150 22 148 Z" fill="#FF5A1F" stroke="#17191C" stroke-width="2.2"/>
+<path d="M34 153 Q160 143 286 153" stroke="#FFFFFF" stroke-width="1.4" opacity=".5"/>
+<path d="M60 162 Q66 200 160 205 Q254 200 260 162" stroke="#17191C" stroke-width="1.5" stroke-dasharray="6 7" opacity=".4"/>
+<path d="M118 62 h18 M110 76 h18 M184 62 h18 M192 76 h18" stroke="#17191C" stroke-width="2" opacity=".5"/><path d="M152 48 h16" stroke="#FF5A1F" stroke-width="2.4"/>
+</g>
+<text x="288" y="206" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FF5A1F" opacity=".9">04</text>
+</svg>

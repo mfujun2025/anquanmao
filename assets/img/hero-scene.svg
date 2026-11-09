@@ -1,0 +1,68 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 640 460" role="img" aria-labelledby="sh sd">
+<title id="sh">安全防护主题线稿插画</title>
+<desc id="sd">建筑工地线稿与一顶安全帽线稿组成的原创示意插画，用于首页首屏视觉，非实物照片</desc>
+<rect width="640" height="460" fill="#FFFFFF"/>
+<path d="M40 0V460" stroke="#EDEAE3" stroke-width="1"/>
+<path d="M80 0V460" stroke="#EDEAE3" stroke-width="1"/>
+<path d="M120 0V460" stroke="#EDEAE3" stroke-width="1"/>
+<path d="M160 0V460" stroke="#EDEAE3" stroke-width="1"/>
+<path d="M200 0V460" stroke="#EDEAE3" stroke-width="1"/>
+<path d="M240 0V460" stroke="#EDEAE3" stroke-width="1"/>
+<path d="M280 0V460" stroke="#EDEAE3" stroke-width="1"/>
+<path d="M320 0V460" stroke="#EDEAE3" stroke-width="1"/>
+<path d="M360 0V460" stroke="#EDEAE3" stroke-width="1"/>
+<path d="M400 0V460" stroke="#EDEAE3" stroke-width="1"/>
+<path d="M440 0V460" stroke="#EDEAE3" stroke-width="1"/>
+<path d="M480 0V460" stroke="#EDEAE3" stroke-width="1"/>
+<path d="M520 0V460" stroke="#EDEAE3" stroke-width="1"/>
+<path d="M560 0V460" stroke="#EDEAE3" stroke-width="1"/>
+<path d="M600 0V460" stroke="#EDEAE3" stroke-width="1"/>
+<path d="M0 40H640" stroke="#EDEAE3" stroke-width="1"/>
+<path d="M0 80H640" stroke="#EDEAE3" stroke-width="1"/>
+<path d="M0 120H640" stroke="#EDEAE3" stroke-width="1"/>
+<path d="M0 160H640" stroke="#EDEAE3" stroke-width="1"/>
+<path d="M0 200H640" stroke="#EDEAE3" stroke-width="1"/>
+<path d="M0 240H640" stroke="#EDEAE3" stroke-width="1"/>
+<path d="M0 280H640" stroke="#EDEAE3" stroke-width="1"/>
+<path d="M0 320H640" stroke="#EDEAE3" stroke-width="1"/>
+<path d="M0 360H640" stroke="#EDEAE3" stroke-width="1"/>
+<path d="M0 400H640" stroke="#EDEAE3" stroke-width="1"/>
+<path d="M0 440H640" stroke="#EDEAE3" stroke-width="1"/>
+<circle cx="320" cy="226" r="172" fill="#FFF1E9"/>
+<circle cx="320" cy="226" r="172" fill="none" stroke="#F7D6C4" stroke-width="1.5"/>
+<g fill="none" stroke="#D6D2C8" stroke-width="1.6" stroke-linejoin="round">
+<path d="M24 426V288h88v138 M112 426V236h68v190 M180 426V314h106v112 M424 426V272h74v154 M498 426V228h64v198 M562 426V306h56v120"/>
+<path d="M24 426H620"/>
+<path d="M40 310h16v18H40z M70 310h16v18H70z M100 310h0 M40 344h16v18H40z M70 344h16v18H70z"/>
+<path d="M128 258h14v18h-14z M152 258h14v18h-14z M128 292h14v18h-14z M152 292h14v18h-14z"/>
+<path d="M198 334h18v18h-18z M228 334h18v18h-18z M258 334h18v18h-18z"/>
+<path d="M440 294h16v18h-16z M468 294h16v18h-16z M440 328h16v18h-16z M468 328h16v18h-16z"/>
+<path d="M514 250h14v18h-14z M538 250h14v18h-14z M514 284h14v18h-14z M538 284h14v18h-14z"/>
+</g>
+<g fill="none" stroke="#B9B5AC" stroke-width="2" stroke-linecap="round">
+<path d="M392 226V78 M392 78H566 M424 78V108 M392 94H486 M566 78V120"/>
+<path d="M486 94V120"/>
+</g>
+
+<g transform="translate(80 62) scale(1.5)">
+<g >
+
+
+<g fill="none" stroke-linecap="round" stroke-linejoin="round">
+<path d="M36 142 C36 70 90 26 160 26 C230 26 284 70 284 142 L284 150 L36 150 Z" fill="#F8F7F3" stroke="#17191C" stroke-width="2.4"/>
+<path d="M160 26 L160 150 M112 32 C100 70 96 110 96 150 M208 32 C220 70 224 110 224 150" stroke="#17191C" stroke-width="1.2" opacity=".26"/>
+<path d="M126 30 Q160 23 194 30" stroke="#FF5A1F" stroke-width="5"/>
+<path d="M22 148 Q160 136 298 148 Q308 150 300 162 Q160 178 20 162 Q12 150 22 148 Z" fill="#FF5A1F" stroke="#17191C" stroke-width="2.2"/>
+<path d="M34 153 Q160 143 286 153" stroke="#FFFFFF" stroke-width="1.4" opacity=".5"/>
+<path d="M60 162 Q66 200 160 205 Q254 200 260 162" stroke="#17191C" stroke-width="1.5" stroke-dasharray="6 7" opacity=".4"/>
+
+</g>
+
+</g>
+
+</g>
+<rect x="0" y="0" width="8" height="88" fill="#FF5A1F"/>
+<rect x="40" y="26" width="88" height="5" fill="#17191C"/>
+<rect x="40" y="38" width="52" height="3" fill="#D6D2C8"/>
+<rect x="540" y="426" width="68" height="5" fill="#FF5A1F"/>
+</svg>

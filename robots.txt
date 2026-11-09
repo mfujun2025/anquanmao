@@ -1,0 +1,25 @@
+User-agent: *
+Allow: /
+Disallow: /assets/js/
+Disallow: /tools/
+Disallow: /api/
+Disallow: /admin/
+
+User-agent: Baiduspider
+Allow: /
+User-agent: GPTBot
+Allow: /
+User-agent: Claude-Web
+Allow: /
+User-agent: Anthropic-AI
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Bytespider
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Applebot
+Allow: /
+
+Sitemap: https://xn--15qt0wm7b.cn/sitemap.xml

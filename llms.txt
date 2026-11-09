@@ -1,0 +1,41 @@
+# 安全帽.cn
+
+> 简体中文安全帽产品展示与业务咨询官网。站点为纯静态实现，内容以 HTML 正文输出，便于搜索引擎与 AI 助手读取。
+
+## 站点信息
+
+- 域名：安全帽.cn（punycode：xn--15qt0wm7b.cn）
+- 规范地址：https://xn--15qt0wm7b.cn
+- 联系邮箱：mfujun@agent.qq.com
+- 项目仓库：https://github.com/mfujun2025/anquanmao
+- 语言：简体中文（zh-CN）
+
+## 重要说明
+
+本站所有企业具体信息（企业全称、电话、地址、资质证书、检测报告、客户案例、年限与数据）均为占位内容，尚未填写真实资料。产品型号、规格数值、参考价格同样为占位。行业选型内容仅作通用参考，具体以产品标识与检测报告为准，不构成对任何具体产品性能的承诺。
+
+## 产品体系
+
+- [建筑施工安全帽](https://xn--15qt0wm7b.cn/products/construction.html)：面向房屋建筑、市政工程等一般高处与交叉作业场景的头部防护选型。
+- [电力绝缘安全帽](https://xn--15qt0wm7b.cn/products/electrical.html)：面向带电作业、配电运维等存在电击风险场景的头部防护选型。
+- [工业防护安全帽](https://xn--15qt0wm7b.cn/products/industrial.html)：面向制造、矿山、化工等存在坠物与碰撞风险场景的头部防护选型。
+- [轻便透气安全帽](https://xn--15qt0wm7b.cn/products/lightweight.html)：面向长时间佩戴、高温或需频繁移动场景的头部防护选型。
+
+## 服务与咨询
+
+- 浏览路径：产品中心分类 → 分类详情（特点 / 规格 / 应用场景）→ 咨询表单
+- 咨询表单：纯静态实现，校验通过后由访客自行选择邮件发送或复制内容，信息不上传服务器
+- 响应时限、报价周期、商务条款：[待企业填写]
+
+## 页面索引
+
+- [首页](https://xn--15qt0wm7b.cn/index.html)
+- [产品中心](https://xn--15qt0wm7b.cn/products/index.html)
+- [品牌介绍](https://xn--15qt0wm7b.cn/about.html)
+- [常见问题](https://xn--15qt0wm7b.cn/faq.html)
+- [联系我们](https://xn--15qt0wm7b.cn/contact.html)
+
+## 机器可读文件
+
+- sitemap：https://xn--15qt0wm7b.cn/sitemap.xml
+- robots：https://xn--15qt0wm7b.cn/robots.txt
