@@ -1,14 +1,1 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 320 220" role="img" aria-labelledby="ht hd">
-<title id="ht">电力绝缘安全帽线稿示意图</title>
-<desc id="hd">安全帽分类线稿示意插画，非实物照片，实际外观以产品实物为准</desc>
-<g fill="none" stroke-linecap="round" stroke-linejoin="round">
-<path d="M36 142 C36 70 90 26 160 26 C230 26 284 70 284 142 L284 150 L36 150 Z" fill="#F8F7F3" stroke="#17191C" stroke-width="2.4"/>
-<path d="M160 26 L160 150 M112 32 C100 70 96 110 96 150 M208 32 C220 70 224 110 224 150" stroke="#17191C" stroke-width="1.2" opacity=".26"/>
-<path d="M126 30 Q160 23 194 30" stroke="#FF5A1F" stroke-width="5"/>
-<path d="M22 148 Q160 136 298 148 Q308 150 300 162 Q160 178 20 162 Q12 150 22 148 Z" fill="#FF5A1F" stroke="#17191C" stroke-width="2.2"/>
-<path d="M34 153 Q160 143 286 153" stroke="#FFFFFF" stroke-width="1.4" opacity=".5"/>
-<path d="M60 162 Q66 200 160 205 Q254 200 260 162" stroke="#17191C" stroke-width="1.5" stroke-dasharray="6 7" opacity=".4"/>
-<path d="M163 80 l-13 22 h10 l-4 18 15 -24 h-10 l6 -16 z" stroke="#FF5A1F" stroke-width="2"/>
-</g>
-<text x="288" y="206" text-anchor="end" font-family="Helvetica, Arial, sans-serif" font-size="13" font-weight="700" fill="#FF5A1F" opacity=".9">02</text>
-</svg>
+PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAzMjAgMjIwIiByb2xlPSJpbWciIGFyaWEtbGFiZWxsZWRieT0iaHQgaGQiPgo8dGl0bGUgaWQ9Imh0Ij7nlLXlipvnu53nvJjlronlhajluL3nur/nqL/npLrmhI/lm748L3RpdGxlPgo8ZGVzYyBpZD0iaGQiPuWuieWFqOW4veWIhuexu+e6v+eov+ekuuaEj+aPkueUu++8jOmdnuWunueJqeeFp+eJh++8jOWunumZheWkluinguS7peS6p+WTgeWunueJqeS4uuWHhjwvZGVzYz4KPGcgZmlsbD0ibm9uZSIgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiBzdHJva2UtbGluZWpvaW49InJvdW5kIj4KPHBhdGggZD0iTTM2IDE0MiBDMzYgNzAgOTAgMjYgMTYwIDI2IEMyMzAgMjYgMjg0IDcwIDI4NCAxNDIgTDI4NCAxNTAgTDM2IDE1MCBaIiBmaWxsPSIjRjhGN0YzIiBzdHJva2U9IiMxNzE5MUMiIHN0cm9rZS13aWR0aD0iMi40Ii8+CjxwYXRoIGQ9Ik0xNjAgMjYgTDE2MCAxNTAgTTExMiAzMiBDMTAwIDcwIDk2IDExMCA5NiAxNTAgTTIwOCAzMiBDMjIwIDcwIDIyNCAxMTAgMjI0IDE1MCIgc3Ryb2tlPSIjMTcxOTFDIiBzdHJva2Utd2lkdGg9IjEuMiIgb3BhY2l0eT0iLjI2Ii8+CjxwYXRoIGQ9Ik0xMjYgMzAgUTE2MCAyMyAxOTQgMzAiIHN0cm9rZT0iI0ZGNUExRiIgc3Ryb2tlLXdpZHRoPSI1Ii8+CjxwYXRoIGQ9Ik0yMiAxNDggUTE2MCAxMzYgMjk4IDE0OCBRMzA4IDE1MCAzMDAgMTYyIFExNjAgMTc4IDIwIDE2MiBRMTIgMTUwIDIyIDE0OCBaIiBmaWxsPSIjRkY1QTFGIiBzdHJva2U9IiMxNzE5MUMiIHN0cm9rZS13aWR0aD0iMi4yIi8+CjxwYXRoIGQ9Ik0zNCAxNTMgUTE2MCAxNDMgMjg2IDE1MyIgc3Ryb2tlPSIjRkZGRkZGIiBzdHJva2Utd2lkdGg9IjEuNCIgb3BhY2l0eT0iLjUiLz4KPHBhdGggZD0iTTYwIDE2MiBRNjYgMjAwIDE2MCAyMDUgUTI1NCAyMDAgMjYwIDE2MiIgc3Ryb2tlPSIjMTcxOTFDIiBzdHJva2Utd2lkdGg9IjEuNSIgc3Ryb2tlLWRhc2hhcnJheT0iNiA3IiBvcGFjaXR5PSIuNCIvPgo8cGF0aCBkPSJNMTYzIDgwIGwtMTMgMjIgaDEwIGwtNCAxOCAxNSAtMjQgaC0xMCBsNiAtMTYgeiIgc3Ryb2tlPSIjRkY1QTFGIiBzdHJva2Utd2lkdGg9IjIiLz4KPC9nPgo8dGV4dCB4PSIyODgiIHk9IjIwNiIgdGV4dC1hbmNob3I9ImVuZCIgZm9udC1mYW1pbHk9IkhlbHZldGljYSwgQXJpYWwsIHNhbnMtc2VyaWYiIGZvbnQtc2l6ZT0iMTMiIGZvbnQtd2VpZ2h0PSI3MDAiIGZpbGw9IiNGRjVBMUYiIG9wYWNpdHk9Ii45Ij4wMjwvdGV4dD4KPC9zdmc+Cg==
