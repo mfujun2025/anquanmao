@@ -1,1 +1,124 @@
-IyDlronlhajluL0uY24gwrcg55S15ZWG6aaW6aG1ICsgU0VPIOWGheWuueWMhSDkuqTku5jmiqXlkYoKCi0g5Lqk5LuY5pel5pyf77yaMjAyNi0xMS0xMAotIOebruagh+S7k+W6k++8mmBtZnVqdW4yMDI1L2FucXVhbm1hb2DvvIjliIbmlK8gYG1haW5g77yM5Y6fIEhFQUQgYGU2YmViYjRg77yJCi0g57q/5LiK5Z+f5ZCN77ya5a6J5YWo5bi9LmNu77yIcHVueWNvZGUgYHhuLS0xNXF0MHdtN2IuY25g77yJCi0g5omn6KGM77yaU0VPIOWGheWuueiQpemUgOWboumYn++8iOeglOeptiDihpIg5pKw5YaZIOKGkiDkuInmlrnogZTlrqEg4oaSIOS4u+eQhuS6uuaVtOWQiO+8iSsg572R56uZ5byA5Y+RCgotLS0KCiMjIOS4gOOAgemcgOaxguWvueeFpwoKfCAjIHwg6ZyA5rGCIHwg5Lqk5LuY54q25oCBIHwg6K+05piOIHwKfC0tLXwtLS18LS0tfC0tLXwKfCAxIHwg55S15ZWG572R56uZ6aaW6aG177yM5ZSu5Y2W5a6J5YWo5bi9IHwg4pyFIHwgYGluZGV4Lmh0bWxgIOWFqOaWsOWVhuWfjummlumhte+8jOS/neeVmeWOn+acieWFqOmDqOermeWGhemTvuaOpeS4jui1hOa6kCB8CnwgMiB8IOi9ruaSreWbviB8IOKchSB8IDMg5bGP6Ieq5Yqo6L2u5pKt77yM5bem5Y+z566t5aS0IC8g5oyH56S654K5IC8gaG92ZXIg5pqC5YGcIC8g6aG16Z2i6ZqQ6JeP5pqC5YGcIC8g5YCS6K6h5pe2IHwKfCAzIHwg5ZWG5ZOB5YiG57G7IHwg4pyFIHwgNCDnsbvlnLrmma/liIbnsbvljaHvvIzpk77mjqXliLDku5PlupPljp/mnIkgYHByb2R1Y3RzLyouaHRtbGAgfAp8IDQgfCDng63pl6jllYblk4HlsZXnpLogfCDinIUgfCA4IOasvuWVhuWTgeWNoe+8jOaUr+aMgeWIhuexu+etm+mAieS4juWFs+mUruivjeaQnOe0ou+8jOWQq+S7t+agvCAvIOagh+etviAvIOmUgOmHjyAvIOWKoOi0rSB8CnwgNSB8IOS/g+mUgOa0u+WKqOWMuuWfnyB8IOKchSB8IDQg57G75rS75Yqo77yI6ZmQ5pe256eS5p2A5ZCr5a6e5pe25YCS6K6h5pe2IC8g5ruh5YeP5Yi4IC8g57uE5ZCI5aWX6aSQIC8g5LyB5Lia6ZuG6YeH77yJIHwKfCA2IHwg5pSv5oyB55So5oi355m75b2VIHwg4pqg77iPIOa8lOekuuWunueOsCB8IOaJi+acuiAvIOmCrueusemqjOivgeeggeeZu+W9lSBVSSArIOS8muivneeuoeeQhiArIOi0reeJqei9pu+8jOS7heWtmOacrOacuua1j+iniOWZqO+8myoq6Z2e55yf5a6e6LSm5Y+35L2T57O7KiogfAp8IDcgfCDllYblk4HmlbDmja7kupHnq6/mlbDmja7lupMgfCDinYwg5pyq5a6e546wIHwg5LqR5pyN5Yqh5byA6YCa55So5o6I5p2D6KKr5ouS57ud77yM5oyJ5bmz5Y+w5oyH56S65pS555So5pys5Zyw57uT5p6E5YyW5pWw5o2u5bGC77yM5bey6aKE55WZ5YiH5o2i54K5IHwKfCA4IHwg5ZWG5ZOB5Zu+54mH5LqR56uv5a2Y5YKoIHwg4p2MIOacquWunueOsCB8IOWQjOS4iu+8jOaUueeUqOS7k+W6k+WGhSBTVkcg6Z2Z5oCB6LWE5rqQ77yM5pWw5o2u57uT5p6E5L+d55WZ5LqR56uv5a+56LGh6ZSu5a2X5q61IHwKfCA5IHwgNSDnr4flronlhajluL0gU0VPIOmVv+aWhyB8IOKchSB8IDUg56+HIE1hcmtkb3duIOS6pOS7mOeovyArIDUg5LiqIEhUTUwg5Y+R5biD6aG1ICsg56CU56m2IEJyaWVmICsg5LiJ5Lu96IGU5a6h5oql5ZGKIHwKCiMjIyDimqDvuI8g5YWz5LqO5LqR56uv6IO95Yqb55qE6YeN6KaB6K+05piOCgrmnKzmrKHmjInlrpjmlrnkupHmnI3liqHmtYHnqIvlj5Hotbfnjq/looPlvIDpgJrml7bvvIznlYzpnaLlvLnnqpfov5Tlm54gKipgZGVjbGluZWRCeVVzZXI6IHRydWVgKirvvIjpgInmi6nkuI3lvIDlkK/kupHmnI3liqHvvInvvIzlubblkIzml7bov5Tlm54gYHVzZUxvY2FsSW1wbGVtZW50YXRpb246IHRydWVg44CC5L6d5o2u5bmz5Y+w6KeE6IyD77yM5pyq5YaN5qyh6K+i6Zeu44CB5pyq6YeN6K+V44CB5pyq6Z2Z6buY6ZmN57qn77yM5pS55Li65pys5Zyw5a6e546w77yM5bm25Zyo5q2k5piO56Gu5qCH5rOo5beu5byC77yaCgotICoq5ZWG5ZOB5pWw5o2uKirvvJpgZGF0YS9jYXRhbG9nLmpzYCDkuK3nmoTnu5PmnoTljJbmlbDmja7vvIjliIbnsbsgLyDova7mkq0gLyA4IOasvuWVhuWTgSAvIOS/g+mUgCAvIOaWh+eroOWFpeWPo++8ie+8jOe7jyBgYXNzZXRzL2pzL3Nob3AuanNgIOeahCBgQ2F0YWxvZ1NlcnZpY2VgIOe7n+S4gOaUtuWPo+OAguaKiiBgTU9ERWAg5LuOIGAnbG9jYWwnYCDmlLnkuLogYCdjbG91ZCdgIOW5tuWunueOsCBgZmV0Y2hDbG91ZCgpYCDljbPlj6/liIfmjaLvvIzpobXpnaLmuLLmn5Pku6PnoIHml6DpnIDmlLnliqjjgIIKLSAqKuWVhuWTgeWbvueJhyoq77ya5L2/55So5LuT5bqT5bey5pyJIGBhc3NldHMvaW1nL2hlbG1ldC0qLnN2Z2Ag562J6Z2Z5oCB6LWE5rqQ44CC5q+P5p2h5ZWG5ZOB6K6w5b2V5L+d55WZIGBpbWFnZVBhdGhgIOWtl+aute+8iOW9ouWmgiBgc2hhcmVkL3Byb2R1Y3RzL3h4eC53ZWJwYO+8ie+8jOS9nOS4uuW8gOmAmuS6keWtmOWCqOWQjueahOWvueixoemUru+8m+azqO+8muS6keerr+WtmOWCqOS7heWvueeZu+W9leeUqOaIt+W8gOaUvuOAgeaXoOWFrOW8gCBVUkzvvIzlsYrml7bpnIDlnKjnmbvlvZXmgIHkuIvnlKjnrb7lkI0gVVJMIOa4suafk++8jOW5tuS/neeVmemdmeaAgeWbvuS9nOWFnOW6leOAggotICoq55So5oi355m75b2VKirvvJrmnKzlnLDmvJTnpLrkvJror53vvIhsb2NhbFN0b3JhZ2XvvInvvIzlj5HnoIEgLyDmoKHpqozlnYfkuLrliY3nq6/mvJTnpLrvvIzkuI3lj5HpgIHnnJ/lrp7nn63kv6Hpgq7ku7bjgIHkuI3kuIrkvKDku7vkvZXotKblj7fkv6Hmga/jgILmjqXlhaXkupHnq6/orqTor4HlkI7lupTmm7/mjaLkuLrnnJ/lrp4gT1RQIC8gT0F1dGgg5rWB56iL44CCCi0gKirkuIrnur/lvbHlk40qKu+8muS6keerryBTREsg55qEIHB1Ymxpc2hhYmxlS2V5IOS4juWPkeW4g+Wfn+WQjeWBmueyvuehriBPcmlnaW4g5qCh6aqM77yM5Zug5q2k6Iul5bCG5p2l5byA6YCa5LqR5pyN5Yqh77yM6ZyA6YCa6L+HIFdvcmtCdWRkeSDlj5HluIPln5/lkI3orr/pl67lrozmlbTlip/og73vvJtHaXRIdWIgUGFnZXMg6Ieq5a6a5LmJ5Z+f5ZCN5LiL5LqR56uv55m75b2V5Lya5aSx6LSl44CCCgroi6XpnIDooaXpvZDnnJ/lrp7kupHnq6/og73lipvvvIzph43mlrDlj5HotbflvIDpgJrljbPlj6/vvIzku6PnoIHkuI7mlbDmja7nu5PmnoTlnYflt7LpooTnlZnjgIIKCi0tLQoKIyMg5LqM44CB572R56uZ5a6e546w5riF5Y2VCgp8IOaWh+S7tiB8IOS9nOeUqCB8CnwtLS18LS0tfAp8IGBpbmRleC5odG1sYCB8IOWVhuWfjummlumhte+8iOimhuebluaXp+WxleekuuWei+mmlumhte+8m+aXp+eJiOWPr+eUsSBnaXQg5Y6G5Y+y5Zue5rua77yJIHwKfCBgYXNzZXRzL2Nzcy9zaG9wLmNzc2AgfCDpppbpobXmoLflvI/vvIzlt6XkuJrlronlhajpo47vvIjlronlhajpu4QgKyDmt7HloqggKyDorabnpLrnuqLvvInvvIzlk43lupTlvI8gMyDmoaPmlq3ngrkgfAp8IGBhc3NldHMvY3NzL2FydGljbGUuY3NzYCB8IDUg56+H6ZW/5paH5Y+R5biD6aG15o6S54mI77yI5ZCr55uu5b2V44CB5a+554Wn6KGo44CB5bu25Ly46ZiF6K+744CBQ1RB77yJIHwKfCBgYXNzZXRzL2pzL3Nob3AuanNgIHwg6L2u5pKtIC8g5riy5p+TIC8g562b6YCJIC8g5pCc57SiIC8g55m75b2VIC8g6LSt54mp6L2mIC8g5YCS6K6h5pe2IC8gVG9hc3QgfAp8IGBkYXRhL2NhdGFsb2cuanNgIHwg5pys5Zyw5ZWG5ZOB5pWw5o2u5bGC77yI5ZCr5LqR56uv5a+56LGh6ZSu6aKE55WZ5a2X5q6177yJIHwKfCBgYmxvZy8qLmh0bWxgIHwgNSDnr4cgU0VPIOmVv+aWh+WPkeW4g+mhtSB8CnwgYGFydGljbGVzLyoubWRgIHwgNSDnr4cgTWFya2Rvd24g5Lqk5LuY5Y6f56i/IHwKfCBgcmVzZWFyY2gvYnJpZWYtYW5xdWFubWFvLTIwMjYtMTEtMTAubWRgIHwg5YWz6ZSu6K+N56CU56m2IEJyaWVm77yINjcwIOihjCAvIDM0LDQ0MyDlrZfnrKbvvIkgfAp8IGByZXBvcnRzLyoubWRgIHwgU0VPIC8g57yW6L6RIC8g5YaF6ZO+5LiJ5Lu96IGU5a6h5oql5ZGKICsg5pys5oql5ZGKIHwKCiMjIyDlr7nml6LmnInlt6Xlhbfpk77nmoTmlLnliqjvvIjph43opoHvvIkKCuS7k+W6k+iHquW4piBgdG9vbHMvYnVpbGQucHlgIOS8mumHjeW7uuWFqOermeW5tuWcqCBgbWFpbigpYCDnrKzkuIDooYzopobnm5YgYGluZGV4Lmh0bWxg77yMYGV4dHJhX2ZpbGVzKClgIOS8mumHjeWGmSBgc2l0ZW1hcC54bWxgIC8gYHJvYm90cy50eHRgIC8gYGxsbXMudHh0YOOAguiLpeS4jeWBmuWkhOeQhu+8jOS4i+asoei/kOihjOiEmuacrOS8muaKiueUteWVhummlumhteaJk+WbnuaXp+eJiOOAguW3suWBmuacgOWwj+S+teWFpeaUuemAoO+8mgoKMS4gYGJ1aWxkLnB5IMK3IG1haW4oKWDvvJrkuI3lho3nlJ/miJAgYGluZGV4Lmh0bWxg77yI5L+d55WZ5Y6f6LCD55So5Li65rOo6YeK77yM5Y+v5LiA6ZSu5oGi5aSN5pen54mI6aaW6aG177yJ44CCCjIuIGBidWlsZC5weSDCtyBleHRyYV9maWxlcygpYO+8muiHquWKqOaJq+aPjyBgYmxvZy8qLmh0bWxgIOe6s+WFpSBzaXRlbWFw77yIcHJpb3JpdHkgMC4377yJ77ybYGxsbXMudHh0YCDmlrDlop7jgIznn6Xor4bmlofnq6DjgI3ntKLlvJXmrrXvvIzlkIzmoLfoh6rliqjmiavmj4/vvJtgcm9ib3RzLnR4dGAg5aKe5YqgIGBEaXNhbGxvdzogL2FydGljbGVzL2DvvIzpgb/lhY0gTWFya2Rvd24g5Y6f56i/5LiO5Y+R5biD6aG15Lqn55Sf6YeN5aSN5YaF5a6544CCCjMuIGBidWlsZC5weWAg55Sf5oiQIDkg5Liq5pen5qih5p2/6aG16Z2i77yM5Z2H5L+d5oyB5LiN5Y+Y44CCCjQuIGB0b29scy9hdWRpdC5weWDvvJrmlLnkuLrmjInmqKHmnb/liIbnu4TkvZPmo4DigJTigJTlk4HniYwvSDEv5qCH562+6Zet5ZCIL+WGhemTvi/ov53npoHor40v57uT5p6E5YyW5pWw5o2u562J6YCa55So6KeE5YiZ5a+55omA5pyJIDE1IOS4qumhtemdoueUn+aViO+8jGB0b3BiYXJgIC8gYG5hdmJhcmAgLyBgY3RhLWJhbmRgIC8gYHRydXN0LXN0cmlwYCDnrYnml6fmqKHmnb/kuJPlsZ7nu5PmnoTlj6rmo4Dmn6Xml6fpobXpnaLjgIIKNS4g5paw5aKeIGB0b29scy9idWlsZF9hcnRpY2xlcy5weWDvvJrmioogYGFydGljbGVzLyoubWRgIOaehOW7uuS4uiBgYmxvZy8qLmh0bWxg44CC5YWz6ZSu54K577yaTWV0YSDku6UgQnJpZWYgwqc5IOWunua1i+eJiOS4uuadg+Woge+8iOS4jeS+nei1luaSsOeov+S6uuaUueWGme+8ie+8m+ato+aWh+ermeWGheebuOWvuemTvuaOpeiHquWKqOihpSBgLi4vYCDliY3nvIDvvIzpgb/lhY3lnKggYGJsb2cvYCDlrZDnm67lvZXkuIvkuqfnlJ/mrbvpk77vvJvoh6rliqjnlJ/miJDnm67lvZXjgIHlu7bkvLjpmIXor7vjgIFBcnRpY2xlICsgQnJlYWRjcnVtYkxpc3QgSlNPTi1MROOAgWNhbm9uaWNhbOOAggoK5pel5bi457u05oqk6aG65bqP77yaYHB5dGhvbiB0b29scy9idWlsZF9hcnRpY2xlcy5weWAg4oaSIGBweXRob24gdG9vbHMvYnVpbGQucHlgIOKGkiBgcHl0aG9uIHRvb2xzL2F1ZGl0LnB5YOOAggoKLS0tCgojIyDkuInjgIHpqozor4Hnu5PmnpwKCnwg6aqM6K+B6aG5IHwg57uT5p6cIHwKfC0tLXwtLS18CnwgSlMg6K+t5rOV77yIc2hvcC5qcyAvIGNhdGFsb2cuanPvvIkgfCDinIUgYG5vZGUgLS1jaGVja2Ag6YCa6L+HIHwKfCBQeXRob24g6K+t5rOV77yIYnVpbGQucHkgLyBhdWRpdC5weSAvIGJ1aWxkX2FydGljbGVzLnB577yJIHwg4pyFIGBweV9jb21waWxlYCDpgJrov4cgfAp8IEhUTUwvSlMg5byV55So5LiA6Ie05oCnIHwg4pyFIDQyIOS4qiBKUyDpgInmi6nlmaggSUQg5YWo6YOo5a2Y5Zyo77yIMyDkuKrlgJLorqHml7YgSUQg5Li66L+Q6KGM5pe255Sf5oiQ77yJIHwKfCDnnJ/lrp7mtY/op4jlmajmuLLmn5PvvIhFZGdlIGhlYWRsZXNzIDE0NDBweO+8iSB8IOKchSDpppblsY/kuI7mlbTpobXmiKrlm77noa7orqTvvJrova7mkq3jgIE0IOWIhuexu+OAgTgg5ZWG5ZOB44CBNCDkv4PplIDjgIE1IOaWh+eroOOAgUNUQeOAgemhteiEmuWFqOmDqOato+W4uO+8jOaXoOepuueZvS/ph43lj6AvTWFya2Rvd24g5q6L55WZIHwKfCDmlofnq6DpobXmuLLmn5MgfCDinIUg5a+86K+t5Z2X44CBSDIg56uW5p2h44CB5a+554Wn6KGo44CB5Y+z5L6n55uu5b2V44CB5YaF6ZO+5Z2H5q2j5bi4IHwKfCDnq5nngrnkvZPmo4AgYGF1ZGl0LnB5YCB8IOKchSAxNSDkuKogSFRNTCDpobXpnaLjgIEyNiDkuKrlhoXpk77nm67moIfjgIEwIOe8uuWkseOAgXNpdGVtYXAgWE1MIOWQiOazleOAgee7k+aehOWMluaVsOaNruWQiOazlSB8Cnwgc2l0ZW1hcCAvIGxsbXMudHh0IHwg4pyFIOWdh+iHquWKqOaUtuW9lSA1IOevh+aWh+eroCB8CnwgTWV0YSDlj6PlvoTkuIDoh7TmgKcgfCDinIUgNSDnr4cgZnJvbnRtYXR0ZXIg5LiO5Y+R5biD6aG15a6M5YWo5LiA6Ie077yMVGl0bGUgNTHigJM1OSDlrZfjgIFEZXNjcmlwdGlvbiAxNTfigJMxNjAg5a2XIHwKCj4g5L2T5qOA5pu+5pyJIDEg6aG55b6F5L+u77ya56+HIDIg5Ye6546w44CM5ZSv5LiA44CN77yM5bGe56uZ54K55bm/5ZGK5rOV57ud5a+55YyW55So6K+t5omr5o+P5ZG95Lit77yM5bey5Zyo5pW05ZCI6Zi25q615L+u6K6i77yI6KeB56ys5LqU6IqC77yJ44CCCgotLS0KCiMjIOWbm+OAgVNFTyDlhoXlrrnljIXlrqLop4LmjIfmoIcKCnwgIyB8IOaWh+eroCB8IOS4u+WFs+mUruivjSB8IOS4reaWh+Wtl+aVsCB8IOWvhuW6piB8IEgyIHwg5a+554Wn6KGoIHwg5YaF6ZO+IHwgTWV0YSAoVC9EIOWtl+espikgfAp8LS0tfC0tLXwtLS18LS0tfC0tLXwtLS18LS0tfC0tLXwtLS18CnwgMSB8IOWuieWFqOW4veaAjuS5iOmAie+8muS6lOatpemHh+i0reWGs+etluaMh+WNl++8iFBpbGxhcu+8iSB8IOWuieWFqOW4veaAjuS5iOmAiSB8IDUsNTQwIHwgMS40MSUgfCA4IHwgNCB8IDUgfCA1NyAvIDE1NyB8CnwgMiB8IOWuieWFqOW4veS9v+eUqOacn+mZkOS4juaKpeW6n+abtOaNouWFqOaMh+WNlyB8IOWuieWFqOW4veS9v+eUqOacn+mZkCB8IDQsODk2IHwgMS40MyUgfCA4IHwgMyB8IDcgfCA1MSAvIDE2MCB8CnwgMyB8IEdCIDI4MTEtMjAxOSDlronlhajluL3lm73lrrbmoIflh4blhajop6Por7sgfCDlronlhajluL3lm73lrrbmoIflh4YgfCA0LDk1NiB8IDEuODQlIHwgOSB8IDQgfCA2IHwgNTkgLyAxNjAgfAp8IDQgfCDlronlhajluL3mnZDotKjmgI7kuYjpgInvvIhBQlMvSERQRS/njrvnkoPpkqIvUEPvvIkgfCDlronlhajluL3mnZDotKggfCA0LDI4OSB8IDEuNTIlIHwgOCB8IDMgfCA3IHwgNTUgLyAxNTggfAp8IDUgfCDkuI3lkIzooYzkuJrlronlhajluL3pgInlnovvvIjlhavnsbvlt6XlhrXvvIkgfCDlronlhajluL3pgInlnosgfCA0LDQwMiB8IDEuMjUlIHwgOSB8IDEgfCA3IHwgNTIgLyAxNTggfAoKLSDlrZfmlbDlhajpg6jov5zotoUgMiw1MDAg5Lit5paH5a2X6KeE5qC877yb5Li76K+N5a+G5bqm5YWo6YOo5ZyoIDEl4oCTMiUg5Yy66Ze044CCCi0gQnJpZWYgwqcxMCDnmoTkuKTkuKroh7Tlkb3noazkvKTlt7LmraPnoa7op4Tpgb/vvJpMQSDlronlhajmoIflv5flnKjmlofkuK3mmI7noa7lhpnkuLrjgIwyMDE5IOW5tOi1t+iHquaEv+aAp+iupOivgeOAgemdnuW8uuWItuOAje+8jFQx4oCTVDUg5piO56Gu5YaZ5Li644CMR0IgMjgxMS0yMDE5IOS4reS4jeWtmOWcqOeahOaXp+WPo+W+hOOAje+8jOW5tuS9nOS4uuW3ruW8guWMlue6oOmUmeeCueWxleW8gOOAggotIOWPkeW4g+mhuuW6j+aMiSBCcmllZiDCpzEw77ya56+HIDEg4oaSIOevhyA1IOKGkiDnr4cgMiDihpIg56+HIDMg4oaSIOevhyA044CCCgotLS0KCiMjIOS6lOOAgeWPkeW4g+ajgOafpea4heWNlQoKfCDpobnnm64gfCDnirbmgIEgfAp8LS0tfC0tLXwKfCDpppbpobUgNSDkuKrlip/og73ljLrlhajpg6jlrp7njrDlubbmuLLmn5PmraPluLggfCDinJMgfAp8IOWTjeW6lOW8jyAzIOaho+aWreeCuSAvIOaXoOmanOeijSBhcmlhIC8g5Zu+54mH5oeS5Yqg6L29IHwg4pyTIHwKfCDpppbpobXmgbDlpb0gMSDkuKogSDHjgIFjYW5vbmljYWzjgIFPR+OAgVdlYlNpdGUvT3JnYW5pemF0aW9uL0l0ZW1MaXN0IEpTT04tTEQgfCDinJMgfAp8IDUg56+H6ZW/5paHIOKJpTI1MDAg5a2X44CB5a+86K+t5ZCr5Li76K+N44CBNuKAkzkg5LiqIEgy44CB4omlMSDooajjgIFGQVEgNOKAkzYg6Zeu44CB57uT6K66IENUQSB8IOKck++8iEgyIOaVsOmHj+ingeiBlOWuoeijgeWumu+8iSB8Cnwg5Li76K+N5a+G5bqmIDEl4oCTMiXjgIFNZXRhIOWPo+W+hOe7n+S4gCB8IOKckyB8Cnwg5Y+R5biD6aG1IGNhbm9uaWNhbCAvIEFydGljbGUgKyBCcmVhZGNydW1iTGlzdCBKU09OLUxEIC8g55uu5b2VIC8g5bu25Ly46ZiF6K+7IHwg4pyTIHwKfCDnq5nlhoXlhoXpk74gMCDmrbvpk77vvIhhdWRpdC5weSAyNiDkuKrnm67moIflhajpg6jlrZjlnKjvvIkgfCDinJMgfAp8IHNpdGVtYXAueG1sIOaUtuW9lSA1IOevh+OAgWxsbXMudHh0IOaUtuW9lSA1IOevh+OAgXJvYm90cyDmjpLpmaTljp/nqL/nm67lvZUgfCDinJMgfAp8IOaehOW7uuiEmuacrOS4jeS8muimhueblueUteWVhummlumhtSB8IOKckyB8Cnwg56uZ54K55L2T5qOAIGBhdWRpdC5weWAg6YCa6L+HIHwg4pyT77yI5pW05ZCI5L+u6K6i5ZCO5aSN6aqM77yJIHwKfCDllYblk4HmlbDmja7kupHnq6/mlbDmja7lupMgLyDlm77niYfkupHnq6/lrZjlgqggLyDnnJ/lrp7nlKjmiLforqTor4EgfCDinJfvvIjkupHmnI3liqHmnKrojrfmjojmnYPvvIzop4HnrKzkuIDoioLvvIkgfAp8IOS8geS4muS4u+S9k+OAgei1hOi0qOOAgeajgOa1i+aKpeWRiuOAgeiBlOezu+aWueW8jyB8IOKcl++8iOayv+eUqOS7k+W6k+WOn+acieWNoOS9je+8jOacque8lumAoO+8iSB8Cgo8IS0tIFBIQVNFM19TRUNUSU9OIC0tPgoKLS0tCgojIyDlha3jgIHpo47pmankuI7lu7rorq4KCjEuICoq5LqR56uv6IO95Yqb5pyq6JC95ZywKirmmK/mnKzmrKHllK/kuIDmnKrmu6HotrPnmoTmoLjlv4PpnIDmsYLpobnvvIzpnIDph43mlrDlvIDpgJrkupHmnI3liqHlkI7mjInpooTnlZnliIfmjaLngrnmjqXlhaXjgIIKMi4g5ZWG5ZOB5Lu35qC844CB6ZSA6YeP44CB5bqT5a2Y5Z2H5Li65ryU56S65pWw5o2u77yM6aG16ISa5LiO6aaW6aG15Z2H5bey5qCH5rOo77yb5q2j5byP5ZWG55So5YmN6aG75pu/5o2i77yM5bm26KGl6b2Q5LyB5Lia5Li75L2T5LiO6LWE6LSo6LWE5paZ44CCCjMuIGBpbmRleC5odG1sYCDopobnm5bkuobljp/lsZXnpLrlnovpppbpobXvvIzml6fniYjlj6/pgJrov4cgZ2l0IOWOhuWPsuaIliBgYnVpbGQucHlgIOS4reS/neeVmeeahOazqOmHiuiwg+eUqOaBouWkjeOAggo0LiA1IOevh+aWh+eroOS4uumdmeaAgeWPkeW4g+mhte+8jOWQjue7reaWsOWinuaWh+eroOWPqumcgOWcqCBgYXJ0aWNsZXMvYCDmlL4gTWFya2Rvd24g5bm25ZyoIGBidWlsZF9hcnRpY2xlcy5weWAg55qEIGBNRVRBYCAvIGBPUkRFUmAg55m76K6w77yM5YaN6LeR5p6E5bu65LiO5L2T5qOA5Y2z5Y+v44CCCg==
+# 安全帽.cn · 电商首页 + SEO 内容包 交付报告
+
+- 交付日期：2026-11-10
+- 目标仓库：`mfujun2025/anquanmao`（分支 `main`，原 HEAD `e6bebb4`）
+- 线上域名：安全帽.cn（punycode `xn--15qt0wm7b.cn`）
+- 执行：SEO 内容营销团队（研究 → 撰写 → 三方联审 → 主理人整合）+ 网站开发
+
+---
+
+## 一、需求对照
+
+| # | 需求 | 交付状态 | 说明 |
+|---|---|---|---|
+| 1 | 电商网站首页，售卖安全帽 | ✅ | `index.html` 全新商城首页，保留原有全部站内链接与资源 |
+| 2 | 轮播图 | ✅ | 3 屏自动轮播，左右箭头 / 指示点 / hover 暂停 / 页面隐藏暂停 / 倒计时 |
+| 3 | 商品分类 | ✅ | 4 类场景分类卡，链接到仓库原有 `products/*.html` |
+| 4 | 热门商品展示 | ✅ | 8 款商品卡，支持分类筛选与关键词搜索，含价格 / 标签 / 销量 / 加购 |
+| 5 | 促销活动区域 | ✅ | 4 类活动（限时秒杀含实时倒计时 / 满减券 / 组合套餐 / 企业集采） |
+| 6 | 支持用户登录 | ⚠️ 演示实现 | 手机 / 邮箱验证码登录 UI + 会话管理 + 购物车，仅存本机浏览器；**非真实账号体系** |
+| 7 | 商品数据云端数据库 | ❌ 未实现 | 云服务开通用授权被拒绝，按平台指示改用本地结构化数据层，已预留切换点 |
+| 8 | 商品图片云端存储 | ❌ 未实现 | 同上，改用仓库内 SVG 静态资源，数据结构保留云端对象键字段 |
+| 9 | 5 篇安全帽 SEO 长文 | ✅ | 5 篇 Markdown 交付稿 + 5 个 HTML 发布页 + 研究 Brief + 三份联审报告 |
+
+### ⚠️ 关于云端能力的重要说明
+
+本次按官方云服务流程发起环境开通时，界面弹窗返回 **`declinedByUser: true`**（选择不开启云服务），并同时返回 `useLocalImplementation: true`。依据平台规范，未再次询问、未重试、未静默降级，改为本地实现，并在此明确标注差异：
+
+- **商品数据**：`data/catalog.js` 中的结构化数据（分类 / 轮播 / 8 款商品 / 促销 / 文章入口），经 `assets/js/shop.js` 的 `CatalogService` 统一收口。把 `MODE` 从 `'local'` 改为 `'cloud'` 并实现 `fetchCloud()` 即可切换，页面渲染代码无需改动。
+- **商品图片**：使用仓库已有 `assets/img/helmet-*.svg` 等静态资源。每条商品记录保留 `imagePath` 字段（形如 `shared/products/xxx.webp`），作为开通云存储后的对象键；注：云端存储仅对登录用户开放、无公开 URL，届时需在登录态下用签名 URL 渲染，并保留静态图作兜底。
+- **用户登录**：本地演示会话（localStorage），发码 / 校验均为前端演示，不发送真实短信邮件、不上传任何账号信息。接入云端认证后应替换为真实 OTP / OAuth 流程。
+- **上线影响**：云端 SDK 的 publishableKey 与发布域名做精确 Origin 校验，因此若将来开通云服务，需通过 WorkBuddy 发布域名访问完整功能；GitHub Pages 自定义域名下云端登录会失败。
+
+若需补齐真实云端能力，重新发起开通即可，代码与数据结构均已预留。
+
+---
+
+## 二、网站实现清单
+
+| 文件 | 作用 |
+|---|---|
+| `index.html` | 商城首页（覆盖旧展示型首页；旧版可由 git 历史回滚） |
+| `assets/css/shop.css` | 首页样式，工业安全风（安全黄 + 深墨 + 警示红），响应式 3 档断点 |
+| `assets/css/article.css` | 5 篇长文发布页排版（含目录、对照表、延伸阅读、CTA） |
+| `assets/js/shop.js` | 轮播 / 渲染 / 筛选 / 搜索 / 登录 / 购物车 / 倒计时 / Toast |
+| `data/catalog.js` | 本地商品数据层（含云端对象键预留字段） |
+| `blog/*.html` | 5 篇 SEO 长文发布页 |
+| `articles/*.md` | 5 篇 Markdown 交付原稿 |
+| `research/brief-anquanmao-2026-11-10.md` | 关键词研究 Brief（670 行 / 34,443 字符） |
+| `reports/*.md` | SEO / 编辑 / 内链三份联审报告 + 本报告 |
+
+### 对既有工具链的改动（重要）
+
+仓库自带 `tools/build.py` 会重建全站并在 `main()` 第一行覆盖 `index.html`，`extra_files()` 会重写 `sitemap.xml` / `robots.txt` / `llms.txt`。若不做处理，下次运行脚本会把电商首页打回旧版。已做最小侵入改造：
+
+1. `build.py · main()`：不再生成 `index.html`（保留原调用为注释，可一键恢复旧版首页）。
+2. `build.py · extra_files()`：自动扫描 `blog/*.html` 纳入 sitemap（priority 0.7）；`llms.txt` 新增「知识文章」索引段，同样自动扫描；`robots.txt` 增加 `Disallow: /articles/`，避免 Markdown 原稿与发布页产生重复内容。
+3. `build.py` 生成 9 个旧模板页面，均保持不变。
+4. `tools/audit.py`：改为按模板分组体检——品牌/H1/标签闭合/内链/违禁词/结构化数据等通用规则对所有 15 个页面生效，`topbar` / `navbar` / `cta-band` / `trust-strip` 等旧模板专属结构只检查旧页面。
+5. 新增 `tools/build_articles.py`：把 `articles/*.md` 构建为 `blog/*.html`。关键点：Meta 以 Brief §9 实测版为权威（不依赖撰稿人改写）；正文站内相对链接自动补 `../` 前缀，避免在 `blog/` 子目录下产生死链；自动生成目录、延伸阅读、Article + BreadcrumbList JSON-LD、canonical。
+
+日常维护顺序：`python tools/build_articles.py` → `python tools/build.py` → `python tools/audit.py`。
+
+---
+
+## 三、验证结果
+
+| 验证项 | 结果 |
+|---|---|
+| JS 语法（shop.js / catalog.js） | ✅ `node --check` 通过 |
+| Python 语法（build.py / audit.py / build_articles.py） | ✅ `py_compile` 通过 |
+| HTML/JS 引用一致性 | ✅ 42 个 JS 选择器 ID 全部存在（3 个倒计时 ID 为运行时生成） |
+| 真实浏览器渲染（Edge headless 1440px） | ✅ 首屏与整页截图确认：轮播、4 分类、8 商品、4 促销、5 文章、CTA、页脚全部正常，无空白/重叠/Markdown 残留 |
+| 文章页渲染 | ✅ 导语块、H2 竖条、对照表、右侧目录、内链均正常 |
+| 站点体检 `audit.py` | ✅ 15 个 HTML 页面、26 个内链目标、0 缺失、sitemap XML 合法、结构化数据合法 |
+| sitemap / llms.txt | ✅ 均自动收录 5 篇文章 |
+| Meta 口径一致性 | ✅ 5 篇 frontmatter 与发布页完全一致，Title 51–59 字、Description 157–160 字 |
+
+> 体检曾有 1 项待修：篇 2 出现「唯一」，属站点广告法绝对化用语扫描命中，已在整合阶段修订（见第五节）。
+
+---
+
+## 四、SEO 内容包客观指标
+
+| # | 文章 | 主关键词 | 中文字数 | 密度 | H2 | 对照表 | 内链 | Meta (T/D 字符) |
+|---|---|---|---|---|---|---|---|---|
+| 1 | 安全帽怎么选：五步采购决策指南（Pillar） | 安全帽怎么选 | 5,540 | 1.41% | 8 | 4 | 5 | 57 / 157 |
+| 2 | 安全帽使用期限与报废更换全指南 | 安全帽使用期限 | 4,896 | 1.43% | 8 | 3 | 7 | 51 / 160 |
+| 3 | GB 2811-2019 安全帽国家标准全解读 | 安全帽国家标准 | 4,956 | 1.84% | 9 | 4 | 6 | 59 / 160 |
+| 4 | 安全帽材质怎么选（ABS/HDPE/玻璃钢/PC） | 安全帽材质 | 4,289 | 1.52% | 8 | 3 | 7 | 55 / 158 |
+| 5 | 不同行业安全帽选型（八类工况） | 安全帽选型 | 4,402 | 1.25% | 9 | 1 | 7 | 52 / 158 |
+
+- 字数全部远超 2,500 中文字规格；主词密度全部在 1%–2% 区间。
+- Brief §10 的两个致命硬伤已正确规避：LA 安全标志在文中明确写为「2019 年起自愿性认证、非强制」，T1–T5 明确写为「GB 2811-2019 中不存在的旧口径」，并作为差异化纠错点展开。
+- 发布顺序按 Brief §10：篇 1 → 篇 5 → 篇 2 → 篇 3 → 篇 4。
+
+---
+
+## 五、发布检查清单
+
+| 项目 | 状态 |
+|---|---|
+| 首页 5 个功能区全部实现并渲染正常 | ✓ |
+| 响应式 3 档断点 / 无障碍 aria / 图片懒加载 | ✓ |
+| 首页恰好 1 个 H1、canonical、OG、WebSite/Organization/ItemList JSON-LD | ✓ |
+| 5 篇长文 ≥2500 字、导语含主词、6–9 个 H2、≥1 表、FAQ 4–6 问、结论 CTA | ✓（H2 数量见联审裁定） |
+| 主词密度 1%–2%、Meta 口径统一 | ✓ |
+| 发布页 canonical / Article + BreadcrumbList JSON-LD / 目录 / 延伸阅读 | ✓ |
+| 站内内链 0 死链（audit.py 26 个目标全部存在） | ✓ |
+| sitemap.xml 收录 5 篇、llms.txt 收录 5 篇、robots 排除原稿目录 | ✓ |
+| 构建脚本不会覆盖电商首页 | ✓ |
+| 站点体检 `audit.py` 通过 | ✓（整合修订后复验） |
+| 商品数据云端数据库 / 图片云端存储 / 真实用户认证 | ✗（云服务未获授权，见第一节） |
+| 企业主体、资质、检测报告、联系方式 | ✗（沿用仓库原有占位，未编造） |
+
+<!-- PHASE3_SECTION -->
+
+---
+
+## 六、风险与建议
+
+1. **云端能力未落地**是本次唯一未满足的核心需求项，需重新开通云服务后按预留切换点接入。
+2. 商品价格、销量、库存均为演示数据，页脚与首页均已标注；正式商用前须替换，并补齐企业主体与资质资料。
+3. `index.html` 覆盖了原展示型首页，旧版可通过 git 历史或 `build.py` 中保留的注释调用恢复。
+4. 5 篇文章为静态发布页，后续新增文章只需在 `articles/` 放 Markdown 并在 `build_articles.py` 的 `META` / `ORDER` 登记，再跑构建与体检即可。

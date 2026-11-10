@@ -1,1 +1,214 @@
-LyogPT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PQogKiDlronlhajluL0uY24gwrcg5ZWG5ZOB5pWw5o2u5bGC77yI5pys5Zyw5a6e546w77yJCiAqIC0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0tLS0KICog5pys5qyh5Lqk5LuY5pe25LqR5pyN5Yqh5pyq5byA6YCa77yM5pWF5ZWG5ZOBL+WIhuexuy/ova7mkq0v5L+D6ZSA5pWw5o2u5Lul5pys5Zyw57uT5p6E5YyW5pWw5o2u5o+Q5L6b44CCCiAqIOaVsOaNruiuv+mXrue7n+S4gOi1sCBhc3NldHMvanMvc2hvcC5qcyDph4znmoQgQ2F0YWxvZ1NlcnZpY2XvvIzpobXpnaLkuI3nm7TmjqXor7vmnKzmlofku7bjgIIKICoKICog5o6l5YWl5LqR56uv5pWw5o2u5bqT5pe25Y+q6ZyA5Lik5q2l77yaCiAqICAgMSkg5oqK5LiL6Z2iIDQg5byg6ZuG5ZCI5a+85YWl5LqR56uv5pWw5o2u5bqT77yIY2F0ZWdvcmllcyAvIHByb2R1Y3RzIC8gYmFubmVycyAvIHByb21vdGlvbnPvvInvvJsKICogICAyKSDmioogQ2F0YWxvZ1NlcnZpY2Ug55qEIE1PREUg5LuOICdsb2NhbCcg5pS55Li6ICdjbG91ZCfvvIzlubblrp7njrAgZmV0Y2hDbG91ZCgp44CCCiAqIOmhtemdoua4suafk+OAgeetm+mAieOAgei0reeJqei9puS7o+eggeaXoOmcgOaUueWKqOOAggogKgogKiBpbWFnZSAgICAgICAgPSDlvZPliY3lrp7pmYXlsZXnpLrnlKjnmoTmnKzlnLDpnZnmgIHotYTmupDvvIjku5PlupPlhoUgYXNzZXRzL2ltZy/vvIkKICogaW1hZ2VQYXRoICAgID0g6aKE55WZ55qE5LqR56uv5a2Y5YKo5a+56LGh6ZSu77yb5byA6YCa5LqR5a2Y5YKo5ZCO77yM5ZWG5ZOB5Zu+5LiK5Lyg6Iez6K+l6Lev5b6E77yMCiAqICAgICAgICAgICAgICAgIOi/kOihjOaXtumAmui/h+etvuWQjSBVUkwg5Yqg6L2977yMaW1hZ2Ug5L2c5Li65YWc5bqV5Zu+5L+d55WZ44CCCiAqID09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT09PT0gKi8Kd2luZG93LkNBVEFMT0cgPSB7CiAgc2l0ZTogewogICAgbmFtZTogJ+WuieWFqOW4vS5jbicsCiAgICBkb21haW46ICd4bi0tMTVxdDB3bTdiLmNuJywKICAgIHNsb2dhbjogJ+aMieS9nOS4muWcuuaZr+mAieWuieWFqOW4ve+8jOWQiOinhMK3546w6LSnwrflj6/pm4bph4cnLAogICAgc3RhbmRhcmQ6ICdHQiAyODExLTIwMTnjgIrlpLTpg6jpmLLmiqQg5a6J5YWo5bi944CLJywKICAgIG5vdGljZTogJ+acrOermeWVhuWTgeWPguaVsOS4juS7t+agvOS4uua8lOekuuaVsOaNru+8jOS8geS4muS4u+S9k+OAgei1hOi0qOS4juaKpeS7t+S7peato+W8j+i1hOaWmeS4uuWHhuOAgicKICB9LAoKICAvKiAtLS0tLS0tLS0tIOi9ruaSreWbviAtLS0tLS0tLS0tICovCiAgYmFubmVyczogWwogICAgewogICAgICBpZDogJ2IxJywKICAgICAgZXllYnJvdzogJ+W8gOW3peWtoyDCtyDlpLTpg6jpmLLmiqTkuJPlnLonLAogICAgICB0aXRsZTogJ+WQiOinhOWuieWFqOW4ve+8jOaVtOWNleebtOmZjSAxNSUnLAogICAgICBkZXNjOiAn5oyJ5bu6562R5pa95bel44CB55S15Yqb57ud57yY44CB5bel5Lia6Ziy5oqk44CB6L275L6/6YCP5rCU5Zub57G75Zy65pmv6YCJ5Z6L77yM5bi95aOz5qCH6K+G44CB5omn6KGM5qCH5YeG5LiO5Z6L5byP5qOA6aqM6LWE5paZ6ZqP6LSn5Y+v5p+l44CCJywKICAgICAgY3RhOiAn5p+l55yL54Ot6Zeo5ZWG5ZOBJywKICAgICAgaHJlZjogJyNob3QnLAogICAgICB0aGVtZTogJ2dvbGQnLAogICAgICBhcnQ6ICdhc3NldHMvaW1nL2hlcm8tc2NlbmUuc3ZnJywKICAgICAgYmFkZ2U6ICfpmZDml7YgwrcgMTEuMTDigJQxMS4zMCcKICAgIH0sCiAgICB7CiAgICAgIGlkOiAnYjInLAogICAgICBleWVicm93OiAn55S15Yqb5L2c5LiaIMK3IOe7nee8mOezu+WIlycsCiAgICAgIHRpdGxlOiAn6L+R55S15L2c5Lia77yM5YWI55yL55S157ud57yY5oCn6IO95qCH6K6wJywKICAgICAgZGVzYzogJ+W4pueUteS9nOS4muS4jumFjeeUtei/kOe7tOWcuuaZr+S4k+eUqOasvuW8j++8jOmAieWei+aXtuaguOWvueeUtee7nee8mOaAp+iDveagh+iusOOAgeaJp+ihjOagh+WHhuS4juajgOa1i+aKpeWRiu+8jOS4jeaLv+aZrumAmuW4veabv+S7o+OAgicsCiAgICAgIGN0YTogJ+S6huino+eUteWKm+e7nee8mOWuieWFqOW4vScsCiAgICAgIGhyZWY6ICdwcm9kdWN0cy9lbGVjdHJpY2FsLmh0bWwnLAogICAgICB0aGVtZTogJ2JsdWUnLAogICAgICBhcnQ6ICdhc3NldHMvaW1nL2hlbG1ldC1ibHVlLnN2ZycsCiAgICAgIGJhZGdlOiAn5paw5ZOB5LiK5p62JwogICAgfSwKICAgIHsKICAgICAgaWQ6ICdiMycsCiAgICAgIGV5ZWJyb3c6ICfkvIHkuJrpm4bph4cgwrcg5LiT5bGe6YCa6YGTJywKICAgICAgdGl0bGU6ICfmibnph4/ph4fotK3vvIzkuIDpobbkuZ/mjInpobnnm67phY3pvZAnLAogICAgICBkZXNjOiAn5pSv5oyB5oyJ5bel5ZywL+S6p+e6v+WIhuaJuemFjei0p++8jOaPkOS+m+inhOagvOWvueeFp+OAgeagh+ivhuaguOWvuea4heWNleS4jumbhuS4reaKpeS7t++8jOmHh+i0reWJjeWFiOaKiumjjumZqeWcuuaZr+WIl+a4healmuOAgicsCiAgICAgIGN0YTogJ+aPkOS6pOmbhumHh+mcgOaxgicsCiAgICAgIGhyZWY6ICdjb250YWN0Lmh0bWwjaW5xdWlyeScsCiAgICAgIHRoZW1lOiAnaW5rJywKICAgICAgYXJ0OiAnYXNzZXRzL2ltZy9oZWxtZXQtcmVkLnN2ZycsCiAgICAgIGJhZGdlOiAnNTAg6aG26LW3IMK3IOS4k+WxnuaKpeS7tycKICAgIH0KICBdLAoKICAvKiAtLS0tLS0tLS0tIOWVhuWTgeWIhuexuyAtLS0tLS0tLS0tICovCiAgY2F0ZWdvcmllczogWwogICAgewogICAgICBpZDogJ2NvbnN0cnVjdGlvbicsCiAgICAgIG5hbWU6ICflu7rnrZHmlr3lt6XlronlhajluL0nLAogICAgICBzaG9ydDogJ+W7uuetkeW3peWcsCcsCiAgICAgIGRlc2M6ICfmiL/lsYvlu7rnrZHjgIHluILmlL/lt6XnqIvnrYnpq5jlpITlnaDniankuI7kuqTlj4nkvZzkuJrlnLrmma8nLAogICAgICBpY29uOiAnYnVpbGRpbmcnLAogICAgICBjb2xvcjogJ3llbGxvdycsCiAgICAgIGhyZWY6ICdwcm9kdWN0cy9jb25zdHJ1Y3Rpb24uaHRtbCcsCiAgICAgIGNvdW50OiAzCiAgICB9LAogICAgewogICAgICBpZDogJ2VsZWN0cmljYWwnLAogICAgICBuYW1lOiAn55S15Yqb57ud57yY5a6J5YWo5bi9JywKICAgICAgc2hvcnQ6ICfluKbnlLXkvZzkuJonLAogICAgICBkZXNjOiAn5bim55S15L2c5Lia44CB6YWN55S16L+Q57u0562J5a2Y5Zyo55S15Ye76aOO6Zmp55qE5Zy65pmvJywKICAgICAgaWNvbjogJ2JvbHQnLAogICAgICBjb2xvcjogJ2JsdWUnLAogICAgICBocmVmOiAncHJvZHVjdHMvZWxlY3RyaWNhbC5odG1sJywKICAgICAgY291bnQ6IDIKICAgIH0sCiAgICB7CiAgICAgIGlkOiAnaW5kdXN0cmlhbCcsCiAgICAgIG5hbWU6ICflt6XkuJrpmLLmiqTlronlhajluL0nLAogICAgICBzaG9ydDogJ+efv+WxseWMluW3pScsCiAgICAgIGRlc2M6ICfliLbpgKDjgIHnn7/lsbHjgIHljJblt6XnrYnlnaDniannorDmkp7kuI7kvqflkJHmjKTljovlnLrmma8nLAogICAgICBpY29uOiAnZmFjdG9yeScsCiAgICAgIGNvbG9yOiAncmVkJywKICAgICAgaHJlZjogJ3Byb2R1Y3RzL2luZHVzdHJpYWwuaHRtbCcsCiAgICAgIGNvdW50OiAyCiAgICB9LAogICAgewogICAgICBpZDogJ2xpZ2h0d2VpZ2h0JywKICAgICAgbmFtZTogJ+i9u+S+v+mAj+awlOWuieWFqOW4vScsCiAgICAgIHNob3J0OiAn6ZW/5pe26Ze05L2p5oi0JywKICAgICAgZGVzYzogJ+mVv+aXtumXtOS9qeaItOOAgemrmOa4qeeOr+Wig+S4jumrmOmikeW3oeajgOWcuuaZrycsCiAgICAgIGljb246ICdyZWZyZXNoJywKICAgICAgY29sb3I6ICd3aGl0ZScsCiAgICAgIGhyZWY6ICdwcm9kdWN0cy9saWdodHdlaWdodC5odG1sJywKICAgICAgY291bnQ6IDEKICAgIH0KICBdLAoKICAvKiAtLS0tLS0tLS0tIOWVhuWTge+8iOa8lOekuuaVsOaNru+8iSAtLS0tLS0tLS0tICovCiAgcHJvZHVjdHM6IFsKICAgIHsKICAgICAgaWQ6ICdwMDEnLCBuYW1lOiAnVi1Qcm8g5bu6562R5pa95bel5a6J5YWo5bi977yI6buE6Imy77yJJywgY2F0ZWdvcnk6ICdjb25zdHJ1Y3Rpb24nLAogICAgICBwcmljZTogNDksIG9yaWdpbmFsUHJpY2U6IDY5LCBzYWxlczogMjg0MSwgcmF0aW5nOiA0LjksIHN0b2NrOiA4NjAsCiAgICAgIHRhZ3M6IFsnR0IgMjgxMS0yMDE5JywgJ0FCUyDluL3lo7MnLCAn5peL6ZKu5byP6LCD6IqCJ10sCiAgICAgIGJhZGdlOiAn54Ot6ZSAIFRPUDEnLCBpbWFnZTogJ2Fzc2V0cy9pbWcvaGVsbWV0LXllbGxvdy5zdmcnLAogICAgICBpbWFnZVBhdGg6ICdzaGFyZWQvcHJvZHVjdHMvdi1wcm8tY29uc3RydWN0aW9uLXllbGxvdy53ZWJwJywKICAgICAgZGVzYzogJ+mAmueUqOW7uuetkeaWveW3peWcuuaZr++8jOW4veihrOe8k+WGsue7k+aehOS4juS4i+mij+W4pumFjee9rum9kOWFqO+8jOmAguWQiOWkmuW3peenjeS6pOWPieS9nOS4muOAgicsCiAgICAgIGhvdDogdHJ1ZQogICAgfSwKICAgIHsKICAgICAgaWQ6ICdwMDInLCBuYW1lOiAn57ud57yY5Z6L55S15Yqb5a6J5YWo5bi977yI6JOd6ImyIMK3IDIwa1Yg57qn77yJJywgY2F0ZWdvcnk6ICdlbGVjdHJpY2FsJywKICAgICAgcHJpY2U6IDEyOSwgb3JpZ2luYWxQcmljZTogMTY4LCBzYWxlczogMTI2MywgcmF0aW5nOiA0LjgsIHN0b2NrOiAzMjAsCiAgICAgIHRhZ3M6IFsn55S157ud57yY5oCn6IO9JywgJ+Wei+W8j+ajgOmqjCcsICfphY3nlLXov5Dnu7QnXSwKICAgICAgYmFkZ2U6ICfnlLXlipvkuJPkvpsnLCBpbWFnZTogJ2Fzc2V0cy9pbWcvaGVsbWV0LWJsdWUuc3ZnJywKICAgICAgaW1hZ2VQYXRoOiAnc2hhcmVkL3Byb2R1Y3RzL2luc3VsYXRlZC1lbGVjdHJpY2FsLWJsdWUud2VicCcsCiAgICAgIGRlc2M6ICfpnaLlkJHov5HnlLXkvZzkuJrlnLrmma/vvIzph4fotK3ml7bpobvmoLjlr7nnlLXnu53nvJjmgKfog73moIforrDkuI7lr7nlupTmo4DmtYvmiqXlkYrjgIInLAogICAgICBob3Q6IHRydWUKICAgIH0sCiAgICB7CiAgICAgIGlkOiAncDAzJywgbmFtZTogJ+mrmOW8uuW6puW3peS4mumYsueguOWuieWFqOW4ve+8iOe6ouiJsu+8iScsIGNhdGVnb3J5OiAnaW5kdXN0cmlhbCcsCiAgICAgIHByaWNlOiA3OSwgb3JpZ2luYWxQcmljZTogOTksIHNhbGVzOiAxOTg3LCByYXRpbmc6IDQuOSwgc3RvY2s6IDU0MCwKICAgICAgdGFnczogWyfkvqflkJHliJrmgKcnLCAn6ZmE5Lu25YW85a65JywgJ+efv+WxseWMluW3pSddLAogICAgICBiYWRnZTogJ+W3peWOguebtOS+mycsIGltYWdlOiAnYXNzZXRzL2ltZy9oZWxtZXQtcmVkLnN2ZycsCiAgICAgIGltYWdlUGF0aDogJ3NoYXJlZC9wcm9kdWN0cy9pbmR1c3RyaWFsLWltcGFjdC1yZWQud2VicCcsCiAgICAgIGRlc2M6ICfpkojlr7nlnaDnianjgIHnorDmkp7kuI7kvqflkJHmjKTljovpo47pmanvvIzlj6/phY3pnaLlsY/jgIHogLPnvannrYnpmYTku7bjgIInLAogICAgICBob3Q6IHRydWUKICAgIH0sCiAgICB7CiAgICAgIGlkOiAncDA0JywgbmFtZTogJ+i2hei9u+mAj+awlOWuieWFqOW4ve+8iOeZveiJsu+8iScsIGNhdGVnb3J5OiAnbGlnaHR3ZWlnaHQnLAogICAgICBwcmljZTogNTksIG9yaWdpbmFsUHJpY2U6IDc5LCBzYWxlczogMTU2MiwgcmF0aW5nOiA0LjgsIHN0b2NrOiA3MjAsCiAgICAgIHRhZ3M6IFsn5pW05bi96L276YeP5YyWJywgJ+mAmumjjue7k+aehCcsICflpLTlm7TpgILphY0nXSwKICAgICAgYmFkZ2U6ICflpI/lraPmjqjojZAnLCBpbWFnZTogJ2Fzc2V0cy9pbWcvaGVsbWV0LXdoaXRlLnN2ZycsCiAgICAgIGltYWdlUGF0aDogJ3NoYXJlZC9wcm9kdWN0cy9saWdodHdlaWdodC12ZW50LXdoaXRlLndlYnAnLAogICAgICBkZXNjOiAn6ZW/5pe26Ze05L2p5oi05LiO6auY5rip5beh5qOA5Zy65pmv77yM6YeN54K555yL5pW05bi96YeN6YeP5LiO6YCa6aOO57uT5p6E44CCJywKICAgICAgaG90OiB0cnVlCiAgICB9LAogICAgewogICAgICBpZDogJ3AwNScsIG5hbWU6ICflj43lhYnmnaHlt6XlnLDlronlhajluL3vvIjpu4ToibLvvIknLCBjYXRlZ29yeTogJ2NvbnN0cnVjdGlvbicsCiAgICAgIHByaWNlOiA2OSwgb3JpZ2luYWxQcmljZTogODksIHNhbGVzOiA5MzQsIHJhdGluZzogNC43LCBzdG9jazogNDEwLAogICAgICB0YWdzOiBbJ+mrmOWPr+inhicsICflpJzpl7TkvZzkuJonLCAn5Y+N5YWJ5qCH6K+GJ10sCiAgICAgIGJhZGdlOiAn5aSc6Ze05pa95belJywgaW1hZ2U6ICdhc3NldHMvaW1nL2hlbG1ldC15ZWxsb3cuc3ZnJywKICAgICAgaW1hZ2VQYXRoOiAnc2hhcmVkL3Byb2R1Y3RzL3JlZmxlY3RpdmUtY29uc3RydWN0aW9uLXllbGxvdy53ZWJwJywKICAgICAgZGVzYzogJ+WinuWKoOmrmOWPr+inhuWPjeWFieadoe+8jOmAguWQiOWknOmXtOaIluS9jueFp+W6pueOr+Wig+S4i+eahOW3peWcsOmAmuihjOWMuuWfn+OAgicsCiAgICAgIGhvdDogdHJ1ZQogICAgfSwKICAgIHsKICAgICAgaWQ6ICdwMDYnLCBuYW1lOiAn55+/55So5Yqg5Y6a6Ziy56C45a6J5YWo5bi977yI57qi6Imy77yJJywgY2F0ZWdvcnk6ICdpbmR1c3RyaWFsJywKICAgICAgcHJpY2U6IDk5LCBvcmlnaW5hbFByaWNlOiAxMjksIHNhbGVzOiA2ODgsIHJhdGluZzogNC44LCBzdG9jazogMjYwLAogICAgICB0YWdzOiBbJ+WKoOWOmuW4veWjsycsICfnn7/nlKjlnLrmma8nLCAn6ICQ5Yay5Ye7J10sCiAgICAgIGJhZGdlOiAn6ZuG6YeH5LyY6YCJJywgaW1hZ2U6ICdhc3NldHMvaW1nL2hlbG1ldC1yZWQuc3ZnJywKICAgICAgaW1hZ2VQYXRoOiAnc2hhcmVkL3Byb2R1Y3RzL21pbmluZy1oZWF2eS1yZWQud2VicCcsCiAgICAgIGRlc2M6ICfluL3lo7PliqDljprorr7orqHvvIzpnaLlkJHnn7/lsbHkuI7oo4Xnva7mo4Dkv67nrYnpq5jlvLrluqbkvZzkuJrnjq/looPjgIInLAogICAgICBob3Q6IHRydWUKICAgIH0sCiAgICB7CiAgICAgIGlkOiAncDA3JywgbmFtZTogJ+WPr+mFjemdouWxj+eUteWKm+WuieWFqOW4ve+8iOiTneiJsu+8iScsIGNhdGVnb3J5OiAnZWxlY3RyaWNhbCcsCiAgICAgIHByaWNlOiAxNDksIG9yaWdpbmFsUHJpY2U6IDE4OSwgc2FsZXM6IDUxMiwgcmF0aW5nOiA0LjksIHN0b2NrOiAxODAsCiAgICAgIHRhZ3M6IFsn6Z2i5bGP5pSv5p62JywgJ+eUteW8p+mYsuaKpCcsICfmqKHlnZfljJYnXSwKICAgICAgYmFkZ2U6ICfnu4TlkIjlpZfoo4UnLCBpbWFnZTogJ2Fzc2V0cy9pbWcvaGVsbWV0LWJsdWUuc3ZnJywKICAgICAgaW1hZ2VQYXRoOiAnc2hhcmVkL3Byb2R1Y3RzL2ZhY2Utc2hpZWxkLWVsZWN0cmljYWwtYmx1ZS53ZWJwJywKICAgICAgZGVzYzogJ+mihOeVmemdouWxj+S4juiAs+e9qeaOpeWPo++8jOWPr+aMieS9nOS4muelqOimgeaxgue7hOWQiOmYsuaKpOmZhOS7tuOAgicsCiAgICAgIGhvdDogdHJ1ZQogICAgfSwKICAgIHsKICAgICAgaWQ6ICdwMDgnLCBuYW1lOiAn5Zub5a2j6YCa55So6L275L6/5a6J5YWo5bi977yI55m96Imy77yJJywgY2F0ZWdvcnk6ICdsaWdodHdlaWdodCcsCiAgICAgIHByaWNlOiA4OSwgb3JpZ2luYWxQcmljZTogMTA5LCBzYWxlczogMTEwNSwgcmF0aW5nOiA0LjcsIHN0b2NrOiA2MzAsCiAgICAgIHRhZ3M6IFsn5Zub5a2j5YaF6KGsJywgJ+WPr+aLhua0lycsICflt6Hmo4DluLjnlKgnXSwKICAgICAgYmFkZ2U6ICflpI3otK3njofpq5gnLCBpbWFnZTogJ2Fzc2V0cy9pbWcvaGVsbWV0LXdoaXRlLnN2ZycsCiAgICAgIGltYWdlUGF0aDogJ3NoYXJlZC9wcm9kdWN0cy9hbGwtc2Vhc29uLXdoaXRlLndlYnAnLAogICAgICBkZXNjOiAn5Y+v5ouG5rSX5YaF6KGs5LiO5Zub5a2j6YCC6YWN57uT5p6E77yM6YCC5ZCI5beh5qOA5LiO6aKR57mB56e75Yqo5bKX5L2N44CCJywKICAgICAgaG90OiB0cnVlCiAgICB9CiAgXSwKCiAgLyogLS0tLS0tLS0tLSDkv4PplIDmtLvliqggLS0tLS0tLS0tLSAqLwogIHByb21vdGlvbnM6IFsKICAgIHsKICAgICAgaWQ6ICdwcjEnLCB0eXBlOiAnZmxhc2gnLCBleWVicm93OiAn6ZmQ5pe256eS5p2AJywgdGl0bGU6ICflvIDlt6XlraPniIbmrL4gOC41IOaKmCcsCiAgICAgIGRlc2M6ICdWLVBybyDlu7rnrZHmlr3lt6XlronlhajluL3nrYkgNCDmrL7ng63plIDlnovlj7fvvIzmtLvliqjku7fpmZDph4/kvpvlupTvvIzllK7lrozljbPmgaLlpI3ljp/ku7fjgIInLAogICAgICBtZXRhOiAn5q+P5pelIDEwOjAwIOihpei0pycsIGN0YTogJ+WOu+aKoui0rScsIGhyZWY6ICcjaG90JywgYWNjZW50OiAncmVkJwogICAgfSwKICAgIHsKICAgICAgaWQ6ICdwcjInLCB0eXBlOiAnY291cG9uJywgZXllYnJvdzogJ+a7oeWHj+WIuCcsIHRpdGxlOiAn5ruhIDUwMCDlh48gNjAgwrcg5ruhIDE1MDAg5YePIDIyMCcsCiAgICAgIGRlc2M6ICflhajnq5nllYblk4Hlj6/nlKjvvIzpgILnlKjkuo7lt6XlnLDnj63nu4TooaXotKfkuI7lpJrlk4Hnsbvmt7fmkK3ph4fotK3vvIznu5Pnrpfml7boh6rliqjmirXmiaPjgIInLAogICAgICBtZXRhOiAn6aKG5Y+W5ZCOIDMwIOWkqeacieaViCcsIGN0YTogJ+mihuWIuCcsIGhyZWY6ICcjaG90JywgYWNjZW50OiAnZ29sZCcKICAgIH0sCiAgICB7CiAgICAgIGlkOiAncHIzJywgdHlwZTogJ2J1bmRsZScsIGV5ZWJyb3c6ICfnu4TlkIjlpZfppJAnLCB0aXRsZTogJ+WuieWFqOW4vSArIOmdouWxjyArIOiAs+e9qSDlpZfoo4Xku7cnLAogICAgICBkZXNjOiAn5oyJ5L2c5Lia6aOO6Zmp5LiA5qyh6YWN6b2Q5aS06YOo6Ziy5oqk77yM6YG/5YWN5LiN5ZCM5ZOB54mM6ZmE5Lu25LiN5YW85a655bim5p2l55qE6KOF6YWN6Zeu6aKY44CCJywKICAgICAgbWV0YTogJ+Wll+mkkOeri+ecgSAxNSUnLCBjdGE6ICfnnIvlpZfppJAnLCBocmVmOiAncHJvZHVjdHMvaW5kdXN0cmlhbC5odG1sJywgYWNjZW50OiAnYmx1ZScKICAgIH0sCiAgICB7CiAgICAgIGlkOiAncHI0JywgdHlwZTogJ2IyYicsIGV5ZWJyb3c6ICfkvIHkuJrpm4bph4cnLCB0aXRsZTogJzUwIOmhtui1tyDCtyDkuJPlsZ7miqXku7fkuI7liIbmibnphY3otKcnLAogICAgICBkZXNjOiAn5o+Q5Lqk5L2c5Lia5Zy65pmv44CB5pWw6YeP5LiO5Lqk5LuY6IqC5aWP77yM5o+Q5L6b6KeE5qC85a+554Wn6KGo44CB5qCH6K+G5qC45a+55riF5Y2V5LiO6ZuG5Lit5oql5Lu344CCJywKICAgICAgbWV0YTogJ+aUr+aMgeWIhuaJueS6pOS7mCcsIGN0YTogJ+aPkOS6pOmcgOaxgicsIGhyZWY6ICdjb250YWN0Lmh0bWwjaW5xdWlyeScsIGFjY2VudDogJ2luaycKICAgIH0KICBdLAoKICAvKiAtLS0tLS0tLS0tIOefpeivhuaWh+eroO+8iDUg56+HIFNFTyDplb/mlofnq5nlhoXlhaXlj6PvvIxzbHVnIOS4juWPkeW4g+mhuuW6j+S+neaNrueglOeptiBCcmllZiDCpzkgLyDCpzEw77yJIC0tLS0tLS0tLS0gKi8KICBhcnRpY2xlczogWwogICAgeyBzbHVnOiAnc2FmZXR5LWhlbG1ldC1idXlpbmctZ3VpZGUnLCB0aXRsZTogJ+WuieWFqOW4veaAjuS5iOmAie+8muS6lOatpemHh+i0reWGs+etluaMh+WNl++8iOWbveagh8K35p2Q6LSowrflnLrmma/Ct+mqjOaUtu+8iScsIGNhdDogJ+mAiei0reaMh+WNlycsIHJlYWQ6ICcxMCDliIbpkp8nLCBocmVmOiAnYmxvZy9zYWZldHktaGVsbWV0LWJ1eWluZy1ndWlkZS5odG1sJyB9LAogICAgeyBzbHVnOiAnc2FmZXR5LWhlbG1ldC1saWZlc3Bhbi1hbmQtcmVwbGFjZW1lbnQnLCB0aXRsZTogJ+WuieWFqOW4veS9v+eUqOacn+mZkOaYr+WkmuS5he+8n+aKpeW6n+abtOaNouS4juaXpeW4uOajgOafpeWFqOaMh+WNlycsIGNhdDogJ+S9v+eUqOS/neWFuycsIHJlYWQ6ICc5IOWIhumSnycsIGhyZWY6ICdibG9nL3NhZmV0eS1oZWxtZXQtbGlmZXNwYW4tYW5kLXJlcGxhY2VtZW50Lmh0bWwnIH0sCiAgICB7IHNsdWc6ICdnYi0yODExLTIwMTktc2FmZXR5LWhlbG1ldC1zdGFuZGFyZCcsIHRpdGxlOiAnR0IgMjgxMS0yMDE5IOWuieWFqOW4veWbveWutuagh+WHhuWFqOino+ivu++8mjEyIOmhueWPmOWMluS4juawuOS5heagh+ivhicsIGNhdDogJ+agh+WHhuazleinhCcsIHJlYWQ6ICcxMCDliIbpkp8nLCBocmVmOiAnYmxvZy9nYi0yODExLTIwMTktc2FmZXR5LWhlbG1ldC1zdGFuZGFyZC5odG1sJyB9LAogICAgeyBzbHVnOiAnc2FmZXR5LWhlbG1ldC1tYXRlcmlhbC1jb21wYXJpc29uJywgdGl0bGU6ICflronlhajluL3mnZDotKjmgI7kuYjpgInvvJpBQlMgLyBIRFBFIC8g546755KD6ZKiIC8gUEMg5a+554WnJywgY2F0OiAn5p2Q6LSo5a+55q+UJywgcmVhZDogJzkg5YiG6ZKfJywgaHJlZjogJ2Jsb2cvc2FmZXR5LWhlbG1ldC1tYXRlcmlhbC1jb21wYXJpc29uLmh0bWwnIH0sCiAgICB7IHNsdWc6ICdzYWZldHktaGVsbWV0LXNlbGVjdGlvbi1ieS1pbmR1c3RyeScsIHRpdGxlOiAn5LiN5ZCM6KGM5Lia5a6J5YWo5bi96YCJ5Z6L77ya5YWr57G75bel5Ya15a+554Wn5LiO5oCn6IO95qCH6K6w5pig5bCEJywgY2F0OiAn5Zy65pmv6YCJ5Z6LJywgcmVhZDogJzkg5YiG6ZKfJywgaHJlZjogJ2Jsb2cvc2FmZXR5LWhlbG1ldC1zZWxlY3Rpb24tYnktaW5kdXN0cnkuaHRtbCcgfQogIF0KfTsK
+/* =========================================================================
+ * 安全帽.cn · 商品数据层（本地实现）
+ * -------------------------------------------------------------------------
+ * 本次交付时云服务未开通，故商品/分类/轮播/促销数据以本地结构化数据提供。
+ * 数据访问统一走 assets/js/shop.js 里的 CatalogService，页面不直接读本文件。
+ *
+ * 接入云端数据库时只需两步：
+ *   1) 把下面 4 张集合导入云端数据库（categories / products / banners / promotions）；
+ *   2) 把 CatalogService 的 MODE 从 'local' 改为 'cloud'，并实现 fetchCloud()。
+ * 页面渲染、筛选、购物车代码无需改动。
+ *
+ * image        = 当前实际展示用的本地静态资源（仓库内 assets/img/）
+ * imagePath    = 预留的云端存储对象键；开通云存储后，商品图上传至该路径，
+ *                运行时通过签名 URL 加载，image 作为兜底图保留。
+ * ========================================================================= */
+window.CATALOG = {
+  site: {
+    name: '安全帽.cn',
+    domain: 'xn--15qt0wm7b.cn',
+    slogan: '按作业场景选安全帽，合规·现货·可集采',
+    standard: 'GB 2811-2019《头部防护 安全帽》',
+    notice: '本站商品参数与价格为演示数据，企业主体、资质与报价以正式资料为准。'
+  },
+
+  /* ---------- 轮播图 ---------- */
+  banners: [
+    {
+      id: 'b1',
+      eyebrow: '开工季 · 头部防护专场',
+      title: '合规安全帽，整单直降 15%',
+      desc: '按建筑施工、电力绝缘、工业防护、轻便透气四类场景选型，帽壳标识、执行标准与型式检验资料随货可查。',
+      cta: '查看热门商品',
+      href: '#hot',
+      theme: 'gold',
+      art: 'assets/img/hero-scene.svg',
+      badge: '限时 · 11.10—11.30'
+    },
+    {
+      id: 'b2',
+      eyebrow: '电力作业 · 绝缘系列',
+      title: '近电作业，先看电绝缘性能标记',
+      desc: '带电作业与配电运维场景专用款式，选型时核对电绝缘性能标记、执行标准与检测报告，不拿普通帽替代。',
+      cta: '了解电力绝缘安全帽',
+      href: 'products/electrical.html',
+      theme: 'blue',
+      art: 'assets/img/helmet-blue.svg',
+      badge: '新品上架'
+    },
+    {
+      id: 'b3',
+      eyebrow: '企业集采 · 专属通道',
+      title: '批量采购，一顶也按项目配齐',
+      desc: '支持按工地/产线分批配货，提供规格对照、标识核对清单与集中报价，采购前先把风险场景列清楚。',
+      cta: '提交集采需求',
+      href: 'contact.html#inquiry',
+      theme: 'ink',
+      art: 'assets/img/helmet-red.svg',
+      badge: '50 顶起 · 专属报价'
+    }
+  ],
+
+  /* ---------- 商品分类 ---------- */
+  categories: [
+    {
+      id: 'construction',
+      name: '建筑施工安全帽',
+      short: '建筑工地',
+      desc: '房屋建筑、市政工程等高处坠物与交叉作业场景',
+      icon: 'building',
+      color: 'yellow',
+      href: 'products/construction.html',
+      count: 3
+    },
+    {
+      id: 'electrical',
+      name: '电力绝缘安全帽',
+      short: '带电作业',
+      desc: '带电作业、配电运维等存在电击风险的场景',
+      icon: 'bolt',
+      color: 'blue',
+      href: 'products/electrical.html',
+      count: 2
+    },
+    {
+      id: 'industrial',
+      name: '工业防护安全帽',
+      short: '矿山化工',
+      desc: '制造、矿山、化工等坠物碰撞与侧向挤压场景',
+      icon: 'factory',
+      color: 'red',
+      href: 'products/industrial.html',
+      count: 2
+    },
+    {
+      id: 'lightweight',
+      name: '轻便透气安全帽',
+      short: '长时间佩戴',
+      desc: '长时间佩戴、高温环境与高频巡检场景',
+      icon: 'refresh',
+      color: 'white',
+      href: 'products/lightweight.html',
+      count: 1
+    }
+  ],
+
+  /* ---------- 商品（演示数据） ---------- */
+  products: [
+    {
+      id: 'p01', name: 'V-Pro 建筑施工安全帽（黄色）', category: 'construction',
+      price: 49, originalPrice: 69, sales: 2841, rating: 4.9, stock: 860,
+      tags: ['GB 2811-2019', 'ABS 帽壳', '旋钮式调节'],
+      badge: '热销 TOP1', image: 'assets/img/helmet-yellow.svg',
+      imagePath: 'shared/products/v-pro-construction-yellow.webp',
+      desc: '通用建筑施工场景，帽衬缓冲结构与下颏带配置齐全，适合多工种交叉作业。',
+      hot: true
+    },
+    {
+      id: 'p02', name: '绝缘型电力安全帽（蓝色 · 20kV 级）', category: 'electrical',
+      price: 129, originalPrice: 168, sales: 1263, rating: 4.8, stock: 320,
+      tags: ['电绝缘性能', '型式检验', '配电运维'],
+      badge: '电力专供', image: 'assets/img/helmet-blue.svg',
+      imagePath: 'shared/products/insulated-electrical-blue.webp',
+      desc: '面向近电作业场景，采购时须核对电绝缘性能标记与对应检测报告。',
+      hot: true
+    },
+    {
+      id: 'p03', name: '高强度工业防砸安全帽（红色）', category: 'industrial',
+      price: 79, originalPrice: 99, sales: 1987, rating: 4.9, stock: 540,
+      tags: ['侧向刚性', '附件兼容', '矿山化工'],
+      badge: '工厂直供', image: 'assets/img/helmet-red.svg',
+      imagePath: 'shared/products/industrial-impact-red.webp',
+      desc: '针对坠物、碰撞与侧向挤压风险，可配面屏、耳罩等附件。',
+      hot: true
+    },
+    {
+      id: 'p04', name: '超轻透气安全帽（白色）', category: 'lightweight',
+      price: 59, originalPrice: 79, sales: 1562, rating: 4.8, stock: 720,
+      tags: ['整帽轻量化', '通风结构', '头围适配'],
+      badge: '夏季推荐', image: 'assets/img/helmet-white.svg',
+      imagePath: 'shared/products/lightweight-vent-white.webp',
+      desc: '长时间佩戴与高温巡检场景，重点看整帽重量与通风结构。',
+      hot: true
+    },
+    {
+      id: 'p05', name: '反光条工地安全帽（黄色）', category: 'construction',
+      price: 69, originalPrice: 89, sales: 934, rating: 4.7, stock: 410,
+      tags: ['高可视', '夜间作业', '反光标识'],
+      badge: '夜间施工', image: 'assets/img/helmet-yellow.svg',
+      imagePath: 'shared/products/reflective-construction-yellow.webp',
+      desc: '增加高可视反光条，适合夜间或低照度环境下的工地通行区域。',
+      hot: true
+    },
+    {
+      id: 'p06', name: '矿用加厚防砸安全帽（红色）', category: 'industrial',
+      price: 99, originalPrice: 129, sales: 688, rating: 4.8, stock: 260,
+      tags: ['加厚帽壳', '矿用场景', '耐冲击'],
+      badge: '集采优选', image: 'assets/img/helmet-red.svg',
+      imagePath: 'shared/products/mining-heavy-red.webp',
+      desc: '帽壳加厚设计，面向矿山与装置检修等高强度作业环境。',
+      hot: true
+    },
+    {
+      id: 'p07', name: '可配面屏电力安全帽（蓝色）', category: 'electrical',
+      price: 149, originalPrice: 189, sales: 512, rating: 4.9, stock: 180,
+      tags: ['面屏支架', '电弧防护', '模块化'],
+      badge: '组合套装', image: 'assets/img/helmet-blue.svg',
+      imagePath: 'shared/products/face-shield-electrical-blue.webp',
+      desc: '预留面屏与耳罩接口，可按作业票要求组合防护附件。',
+      hot: true
+    },
+    {
+      id: 'p08', name: '四季通用轻便安全帽（白色）', category: 'lightweight',
+      price: 89, originalPrice: 109, sales: 1105, rating: 4.7, stock: 630,
+      tags: ['四季内衬', '可拆洗', '巡检常用'],
+      badge: '复购率高', image: 'assets/img/helmet-white.svg',
+      imagePath: 'shared/products/all-season-white.webp',
+      desc: '可拆洗内衬与四季适配结构，适合巡检与频繁移动岗位。',
+      hot: true
+    }
+  ],
+
+  /* ---------- 促销活动 ---------- */
+  promotions: [
+    {
+      id: 'pr1', type: 'flash', eyebrow: '限时秒杀', title: '开工季爆款 8.5 折',
+      desc: 'V-Pro 建筑施工安全帽等 4 款热销型号，活动价限量供应，售完即恢复原价。',
+      meta: '每日 10:00 补货', cta: '去抢购', href: '#hot', accent: 'red'
+    },
+    {
+      id: 'pr2', type: 'coupon', eyebrow: '满减券', title: '满 500 减 60 · 满 1500 减 220',
+      desc: '全站商品可用，适用于工地班组补货与多品类混搭采购，结算时自动抵扣。',
+      meta: '领取后 30 天有效', cta: '领券', href: '#hot', accent: 'gold'
+    },
+    {
+      id: 'pr3', type: 'bundle', eyebrow: '组合套餐', title: '安全帽 + 面屏 + 耳罩 套装价',
+      desc: '按作业风险一次配齐头部防护，避免不同品牌附件不兼容带来的装配问题。',
+      meta: '套餐立省 15%', cta: '看套餐', href: 'products/industrial.html', accent: 'blue'
+    },
+    {
+      id: 'pr4', type: 'b2b', eyebrow: '企业集采', title: '50 顶起 · 专属报价与分批配货',
+      desc: '提交作业场景、数量与交付节奏，提供规格对照表、标识核对清单与集中报价。',
+      meta: '支持分批交付', cta: '提交需求', href: 'contact.html#inquiry', accent: 'ink'
+    }
+  ],
+
+  /* ---------- 知识文章（5 篇 SEO 长文站内入口，slug 与发布顺序依据研究 Brief §9 / §10） ---------- */
+  articles: [
+    { slug: 'safety-helmet-buying-guide', title: '安全帽怎么选：五步采购决策指南（国标·材质·场景·验收）', cat: '选购指南', read: '10 分钟', href: 'blog/safety-helmet-buying-guide.html' },
+    { slug: 'safety-helmet-lifespan-and-replacement', title: '安全帽使用期限是多久？报废更换与日常检查全指南', cat: '使用保养', read: '9 分钟', href: 'blog/safety-helmet-lifespan-and-replacement.html' },
+    { slug: 'gb-2811-2019-safety-helmet-standard', title: 'GB 2811-2019 安全帽国家标准全解读：12 项变化与永久标识', cat: '标准法规', read: '10 分钟', href: 'blog/gb-2811-2019-safety-helmet-standard.html' },
+    { slug: 'safety-helmet-material-comparison', title: '安全帽材质怎么选：ABS / HDPE / 玻璃钢 / PC 对照', cat: '材质对比', read: '9 分钟', href: 'blog/safety-helmet-material-comparison.html' },
+    { slug: 'safety-helmet-selection-by-industry', title: '不同行业安全帽选型：八类工况对照与性能标记映射', cat: '场景选型', read: '9 分钟', href: 'blog/safety-helmet-selection-by-industry.html' }
+  ]
+};

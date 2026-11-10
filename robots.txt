@@ -1,1 +1,26 @@
-VXNlci1hZ2VudDogKg0KQWxsb3c6IC8NCkRpc2FsbG93OiAvYXNzZXRzL2pzLw0KRGlzYWxsb3c6IC90b29scy8NCkRpc2FsbG93OiAvYXBpLw0KRGlzYWxsb3c6IC9hZG1pbi8NCkRpc2FsbG93OiAvYXJ0aWNsZXMvDQoNClVzZXItYWdlbnQ6IEJhaWR1c3BpZGVyDQpBbGxvdzogLw0KVXNlci1hZ2VudDogR1BUQm90DQpBbGxvdzogLw0KVXNlci1hZ2VudDogQ2xhdWRlLVdlYg0KQWxsb3c6IC8NClVzZXItYWdlbnQ6IEFudGhyb3BpYy1BSQ0KQWxsb3c6IC8NClVzZXItYWdlbnQ6IEdvb2dsZS1FeHRlbmRlZA0KQWxsb3c6IC8NClVzZXItYWdlbnQ6IEJ5dGVzcGlkZXINCkFsbG93OiAvDQpVc2VyLWFnZW50OiBQZXJwbGV4aXR5Qm90DQpBbGxvdzogLw0KVXNlci1hZ2VudDogQXBwbGVib3QNCkFsbG93OiAvDQoNClNpdGVtYXA6IGh0dHBzOi8veG4tLTE1cXQwd203Yi5jbi9zaXRlbWFwLnhtbA0K
+User-agent: *
+Allow: /
+Disallow: /assets/js/
+Disallow: /tools/
+Disallow: /api/
+Disallow: /admin/
+Disallow: /articles/
+
+User-agent: Baiduspider
+Allow: /
+User-agent: GPTBot
+Allow: /
+User-agent: Claude-Web
+Allow: /
+User-agent: Anthropic-AI
+Allow: /
+User-agent: Google-Extended
+Allow: /
+User-agent: Bytespider
+Allow: /
+User-agent: PerplexityBot
+Allow: /
+User-agent: Applebot
+Allow: /
+
+Sitemap: https://xn--15qt0wm7b.cn/sitemap.xml
